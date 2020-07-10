@@ -1,7 +1,7 @@
 # 1. Problem
 In the restaurant dashboard, the menu is checked for errors and a score is given
 
-![restaurant dashboard](https://i.imgur.com/00GNU61.jpg)
+![restaurant dashboard](https://i.imgur.com/SbLuP07.jpg)
 ![close up](https://i.imgur.com/zKs8nUT.png)
 
 ## 1.1. Design Criteria
