@@ -3,7 +3,7 @@ Currently in the product editor, you are allowed to set special hours for a give
 
 ![chart](https://i.imgur.com/9f9YcXG.png)
 
-When you click and drag, it draws a bar that increments by 15 minutes at a time; so in this case, it would be 2:30 - [2:45, 3:00, ...]. It would be better if this incremented by a smaller value (say 5 minutes instead).
+When you click the + / - next to the time it only incrememnts by 1; this is slow, and so it needs to increment by 15 instead.
 
 # 2. Solution
 
